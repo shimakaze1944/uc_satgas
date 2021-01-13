@@ -13,6 +13,9 @@
       <executable path="composer" />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
@@ -136,6 +139,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1lydYgakTinAWmClZpwsH7GAbSe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -170,11 +174,16 @@
       <workItem from="1608573316250" duration="5450000" />
       <workItem from="1608636224840" duration="14713000" />
       <workItem from="1610313600619" duration="1402000" />
+      <workItem from="1610518019749" duration="295000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="508" y="383" key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#" timestamp="1608658970412">
