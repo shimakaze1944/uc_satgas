@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4490f86a-876e-4c7e-a2d4-fd89bc52fdd4" name="Default Changelist" comment="" />
+    <list default="true" id="4490f86a-876e-4c7e-a2d4-fd89bc52fdd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,13 @@
     <execution>
       <executable path="composer" />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -148,6 +159,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -174,7 +186,10 @@
       <workItem from="1608573316250" duration="5450000" />
       <workItem from="1608636224840" duration="14713000" />
       <workItem from="1610313600619" duration="1402000" />
-      <workItem from="1610518019749" duration="295000" />
+      <workItem from="1610518019749" duration="1191000" />
+      <workItem from="1610550743869" duration="1557000" />
+      <workItem from="1610637001415" duration="2787000" />
+      <workItem from="1610726995362" duration="789000" />
     </task>
     <servers />
   </component>
@@ -190,9 +205,17 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="508" y="383" key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#/0.0.1440.900@0.0.1440.900" timestamp="1608658970412" />
+    <state x="294" y="34" key="CommitChangelistDialog2" timestamp="1610518233443">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="294" y="34" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1610518233443" />
     <state x="482" y="369" width="475" height="249" key="ComposerInitDialogKey" timestamp="1608638339371">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="482" y="369" width="475" height="249" key="ComposerInitDialogKey/0.0.1440.900@0.0.1440.900" timestamp="1608638339371" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1610727644221">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1610727644221" />
   </component>
 </project>
